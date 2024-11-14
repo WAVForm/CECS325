@@ -1,0 +1,20 @@
+Generating 1000000 random numbers
+argv[0]:./generate
+argv[1]:1000000
+argv[2]:-100000
+argv[3]:100000
+Starting system sort
+
+real	0m0.777s
+user	0m0.728s
+sys	0m0.032s
+Starting mysort
+Starting my sort
+Starting Array bubble sort with 125000 items
+Starting Array bubble sort with 125000 items
+Starting Array bubble sort with 125000 items
+Starting Array bubble sort with 125000 items
+Starting Array bubble sort with 125000 items
+Starting Array bubble sort with 125000 items
+Starting Array bubble sort with 125000 items
+Starting Array bubble sort with 125000 items
